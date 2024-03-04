@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../test/images
+
+
+nc: 18
+names: ['Attendance','Bad','Beautiful','Break','Brush','Call','Drink','Hello','IloveYou','Love','No','Please','Smile','Study','Thanks','Truth','Yes','You']
